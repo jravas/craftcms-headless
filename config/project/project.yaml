@@ -1,4 +1,4 @@
-dateModified: 1698863060
+dateModified: 1698872185
 email:
   fromEmail: josip.ravas.broj@gmail.com
   fromName: System
@@ -7,7 +7,11 @@ meta:
   __names__:
     6d1c2534-5229-4f8d-a380-cc4dee1e300d: System # System
     6e266c26-f9a1-4af5-b139-ed5435d38809: Common # Common
+    021c32dc-6353-4f57-abc4-76fc5281d884: Home # Home
+    690c7614-7128-44de-8c12-51a16057a5f6: Home # Home
+    a72f0a36-c083-4a96-875f-3febe0b26c22: Home # Home
     bd84538a-65c9-4c55-b028-848e23485e47: System # System
+    c90e7280-eaec-4f45-852e-6b1abc90e3ed: 'Public Schema' # Public Schema
 system:
   edition: pro
   live: true

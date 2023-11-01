@@ -1,0 +1,4 @@
+isPublic: true
+name: 'Public Schema'
+scope:
+  - 'sites.bd84538a-65c9-4c55-b028-848e23485e47:read' # System
