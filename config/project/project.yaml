@@ -1,0 +1,22 @@
+dateModified: 1698863060
+email:
+  fromEmail: josip.ravas.broj@gmail.com
+  fromName: System
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    6d1c2534-5229-4f8d-a380-cc4dee1e300d: System # System
+    6e266c26-f9a1-4af5-b139-ed5435d38809: Common # Common
+    bd84538a-65c9-4c55-b028-848e23485e47: System # System
+system:
+  edition: pro
+  live: true
+  name: System
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
